@@ -1,21 +1,21 @@
-# Awesome Speakers [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Prelegencji Awesome [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> Awesome speakers in the programming and design communities
+> Prelegencji Awesome w społecznościach zajmujących się programowaniem i projektowaniem
 
-Let's make it more transparent and easy to find awesome speakers for meetups and conferences! This list of speakers, their contact details and the topics they talk about is a start towards this goal.
+Sprawmy, aby było bardziej przejrzyste i łatwe znajdowanie wspaniałych mówców na spotkania i konferencje! Ta lista prelegentów, ich dane kontaktowe i tematy, o których mówią, są początkiem tego celu.
 
-Please add to the list and help make the community better connected and richer.
+Dodaj do listy i pomóż uczynić społeczność lepiej połączoną i bogatszą.
 
-## Contents
+## Zawartość
 
-- [Africa](#africa)
-- [Asia](#asia)
+- [Afryka](#afryka)
+- [Azja](#azja)
 - [Australia](#australia)
-- [Europe](#europe)
-- [North America](#north-america)
-- [South America](#south-america)
+- [Europa](#europa)
+- [Ameryka Północna](#ameryka-północna)
+- [Ameryka Południowa](#ameryka-południowa)
 
-# Africa
+# Afryka
 
 ## Nigeria 🇳🇬
 
@@ -61,9 +61,9 @@ https://twitter.com/developerayo
 Topics: Android, Android Things, Firebase, IoT\
 https://twitter.com/riggaroo
 
-# Asia
+# Azja
 
-## India 🇮🇳
+## Indie 🇮🇳
 
 ### Bangalore
 
@@ -139,7 +139,7 @@ https://twitter.com/amdsouza92
 Topics: Mobile Web, PWAs, Flask, Blockchain\
 https://twitter.com/aviaryan123
 
-## Indonesia 🇮🇩
+## Indonezja 🇮🇩
 
 ### Jakarta
 
@@ -211,7 +211,7 @@ Topics: Web Design, Blockchain, Python, IoT, Continous Integration, Developer Ec
 Topics: Android, Open Source, Java, Kotlin\
 https://twitter.com/WajahatKarim
 
-## Singapore 🇸🇬
+## Singapur 🇸🇬
 
 ### Singapore
 
@@ -263,7 +263,7 @@ https://twitter.com/markdalgleish
 Topics: JavaScript, Web Development, Progressive Web Apps\
 https://twitter.com/philnash
 
-# Europe
+# Europa
 
 ## Austria 🇦🇹
 
@@ -387,7 +387,7 @@ https://twitter.com/ferakpeter
 Topics: React, Composition, Android, RXJava, Kotlin\
 https://twitter.com/defuex
 
-## Belgium 🇧🇪
+## Belgia 🇧🇪
 
 ### Hasselt
 
@@ -397,7 +397,7 @@ https://twitter.com/defuex
 Topics: Web Audio, Browser APIs\
 https://twitter.com/sambego
 
-## Bulgaria 🇧🇬
+## Bułgaria 🇧🇬
 
 ### Sofia
 
@@ -407,7 +407,7 @@ https://twitter.com/sambego
 Topics: React, Redux, Ruby, Testing, GraphQL\
 https://twitter.com/rstankov
 
-## Czech Republic 🇨🇿
+## Republika Czeska 🇨🇿
 
 ### Prague
 
@@ -417,7 +417,7 @@ https://twitter.com/rstankov
 Topics: React, Forms, CSS Grid\
 https://twitter.com/kettanaito
 
-## Denmark 🇩🇰
+## Dania 🇩🇰
 
 ### Copenhagen
 
@@ -439,7 +439,7 @@ https://twitter.com/enthusiasto
 Topics: Elm, Visualizations\
 https://twitter.com/tereza_sokol
 
-## Finland 🇫🇮
+## Finlandia 🇫🇮
 
 ### Helsinki
 
@@ -455,7 +455,7 @@ https://twitter.com/pakastin
 Topics: CSS in JS, Style Guides, Visual Regression Testing\
 https://twitter.com/varya_en
 
-## France 🇫🇷
+## Francja 🇫🇷
 
 ### Lille
 
@@ -481,7 +481,7 @@ https://twitter.com/manekinekko
 Topics: JavaScript (Babel), Artificial Intelligence, Linux, Cloud, Ops, Computer Science\
 https://twitter.com/svensauleau
 
-## Germany 🇩🇪
+## Niemcy 🇩🇪
 
 ### Augsburg
 
@@ -649,7 +649,7 @@ https://twitter.com/fhinkel
 Topics: JavaScript (TC39), V8, Chrome\
 https://twitter.com/mathias
 
-## Greece 🇬🇷
+## Grecja 🇬🇷
 
 ### Athens
 
@@ -659,7 +659,7 @@ https://twitter.com/mathias
 Topics: F#\
 https://twitter.com/NickPalladinos
 
-## Ireland 🇮🇪
+## Irlandia 🇮🇪
 
 ### Cork
 
@@ -843,7 +843,7 @@ https://twitter.com/markconroy
 Topics: Node.js, Microservices\
 https://twitter.com/rjrodger
 
-## Israel 🇮🇱
+## Izrael 🇮🇱
 
 <img src="https://twitter.com/nirgn975/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
@@ -870,7 +870,7 @@ https://twitter.com/UriShaked
 Topics: React, MobX, MobX State Tree, React-Native\
 https://twitter.com/yoniweisbrod
 
-## Italy 🇮🇹
+## Włochy 🇮🇹
 
 ### Milan
 
@@ -888,7 +888,7 @@ https://twitter.com/granze
 Topics: React, JavaScript, Flow, Web Architectures, Frontend Ops\
 https://twitter.com/cef62
 
-## Netherlands 🇳🇱
+## Holandia 🇳🇱
 
 ### Amsterdam
 
@@ -980,7 +980,7 @@ https://twitter.com/gklijs
 Topics: Component Libraries, React, Storybook, Open Source, Communities\
 https://twitter.com/NorbertdeLangen
 
-## Norway 🇳🇴
+## Norwegia 🇳🇴
 
 ### Oslo
 
@@ -990,7 +990,7 @@ https://twitter.com/NorbertdeLangen
 Topics: Terraform, AWS, Devops\
 https://twitter.com/antonbabenko
 
-## Poland 🇵🇱
+## Polska 🇵🇱
 
 ### Gdańsk
 
@@ -1080,7 +1080,7 @@ https://twitter.com/michal_chudziak
 Topics: React, React Native, CSS in JS, Tooling\
 https://twitter.com/satya164
 
-## Portugal 🇵🇹
+## Portugalia 🇵🇹
 
 ### Aveiro
 
@@ -1112,7 +1112,7 @@ https://twitter.com/daviddias
 Topics: Ember, JavaScript\
 https://twitter.com/maskedwarrior
 
-## Romania 🇷🇴
+## Rumunia 🇷🇴
 
 <img src="https://twitter.com/martonkodok/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
@@ -1120,7 +1120,7 @@ https://twitter.com/maskedwarrior
 Topics: BigQuery, Databases, Voice Based Interfaces, Cloud, Architecture\
 https://twitter.com/martonkodok
 
-## Russia 🇷🇺
+## Rosja 🇷🇺
 
 ### Moscow
 
@@ -1172,7 +1172,7 @@ https://twitter.com/simalexan
 Topics: Serverless, Offline Web, Chat Bots\
 [https://twitter.com/slobodan\_](https://twitter.com/slobodan_)
 
-## Spain 🇪🇸
+## Hiszpania 🇪🇸
 
 ### Alicante
 
@@ -1222,7 +1222,7 @@ https://twitter.com/g33konaut
 Topics: React, GraphQL, Tooling\
 https://twitter.com/thefubhy
 
-## Ukraine 🇺🇦
+## Ukraina 🇺🇦
 
 ### Chernivtsi
 
@@ -1504,9 +1504,9 @@ https://twitter.com/heydonworks
 Topics: Accessibility\
 https://twitter.com/ninjanails
 
-# North America
+# Ameryka Północna
 
-## Canada 🇨🇦
+## Kanada 🇨🇦
 
 ### Hamilton
 
@@ -1560,7 +1560,7 @@ https://twitter.com/halathinkeths
 Topics: CSS Grids, React, Redux, Firebase, Flexbox\
 https://twitter.com/tiffhaxell
 
-## United States of America 🇺🇸
+## Stany Zjednoczone 🇺🇸
 
 ### Boston
 
@@ -2016,9 +2016,9 @@ https://twitter.com/DevWithTheHair
 Topics: Accessibility\
 https://twitter.com/ShellELittle
 
-# South America
+# Ameryka Południowa
 
-## Argentina 🇦🇷
+## Argentyna 🇦🇷
 
 ### Buenos Aires
 
@@ -2028,7 +2028,7 @@ https://twitter.com/ShellELittle
 Topics: CSS, Animations\
 https://twitter.com/evaferreira92
 
-## Brazil 🇧🇷
+## Brazylia 🇧🇷
 
 ### Belo Horizonte
 
@@ -2088,8 +2088,11 @@ https://twitter.com/JoaoVictor_AC
 Topics: React, React Native, Node.js, GraphQL, Relay Modern, Open Source, Machine Learning, Blockchain\
 https://twitter.com/sseraphini
 
-# License
+# Licencja
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [Karl Horky](https://github.com/karlhorky) has waived all copyright and related or neighboring rights to this work.
+W zakresie, w jakim jest to możliwe na mocy prawa, [Karl Horky](https://github.com/karlhorky) zrzekł się wszelkich praw autorskich i pokrewnych lub pobocznych do tego dzieła.
+
+_____________________________________
+Stworzone przez @[karlhorky](https://github.com/karlhorky) polska wersja od @[mbiesiad](https://github.com/mbiesiad)
