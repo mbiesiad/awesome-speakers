@@ -1,10 +1,10 @@
 # Prelegencji Awesome [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> Prelegencji Awesome w społecznościach zajmujących się programowaniem i projektowaniem
+> Prelegencji Awesome w społecznościach zajmujących się programowaniem i projektowaniem, OSS i nie tylko
 
-Sprawmy, aby było bardziej przejrzyste i łatwe znajdowanie wspaniałych mówców na spotkania i konferencje! Ta lista prelegentów, ich dane kontaktowe i tematy, o których mówią, są początkiem tego celu.
+Sprawmy, aby znajdowanie wspaniałych mówców na spotkania i konferencje było bardziej przejrzyste i łatwe! Ta lista prelegentów, ich dane kontaktowe i tematy, o których mówią, są początkiem tego celu.
 
-Dodaj do listy i pomóż uczynić społeczność lepiej połączoną i bogatszą.
+Dodaj swoje propozycje do listy i pomóż uczynić społeczność lepiej zorganizowaną i bogatszą.
 
 ## Zawartość
 
@@ -51,7 +51,7 @@ https://twitter.com/unicodeveloper
 Topics: PHP, JavaScript, React, Vue.js, Progressive Web Apps, Testing, Open Source, Web Performance\
 https://twitter.com/developerayo
 
-## South Africa 🇿🇦
+## Południowa Afryka 🇿🇦
 
 ### Johannesburg
 
@@ -1006,7 +1006,7 @@ https://twitter.com/kejt_bw
 Topics: MobX, State Management, GraphQL, CSS in JS\
 https://twitter.com/thekitze
 
-### Krakow
+### Kraków
 
 <img src="https://twitter.com/szynszyliszys/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
@@ -1034,7 +1034,7 @@ https://twitter.com/kdzwinel
 Topics: React, Virtual Reality, jQuery\
 https://twitter.com/tlakomy
 
-### Warsaw
+### Warszawa
 
 <img src="https://twitter.com/aganaplocha/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
@@ -1206,7 +1206,7 @@ https://twitter.com/D3DVincent
 Topics: React, Redux, Redux-Form, Forms\
 https://twitter.com/erikras
 
-## Switzerland 🇨🇭
+## Szwajcaria 🇨🇭
 
 ### Zurich
 
@@ -1312,7 +1312,7 @@ Topics: Web Performance, Dev Tools\
 Topics: Progressive Web Apps, Modern Browser APIs\
 https://twitter.com/geek_timofey
 
-## United Kingdom 🇬🇧
+## Wielka Brytania 🇬🇧
 
 ### Birmingham
 
